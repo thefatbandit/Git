@@ -24,7 +24,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
-- Nishant Goyal [Nishantgoyal918](http://github.com/Nishantgoyal918).
+Nishant Goyal [Nishantgoyal918](http://github.com/Nishantgoyal918).
 
 ## Task 2
 
