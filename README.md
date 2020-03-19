@@ -45,7 +45,6 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 Why not remove the commit altogether? \
 This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
 
-+ My mistake
 
 ##  Task 4
 
