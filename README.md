@@ -60,6 +60,7 @@ Use reset to **remove this commit**.
 - Push all the commits into Task5 and create a Pull Request.
 
 Commit 1
+Commit 3
 
 Some guidelines for the tasks:
 
