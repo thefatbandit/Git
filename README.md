@@ -23,7 +23,11 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
+
+Rahul Gorai [sudo-rgorai](http://github.com/sudo-rgorai)
+
 Arnesh Kumar Issar [thefatbandit](https://github.com/thefatbandit)
+
 
 ## Task 2
 
@@ -55,6 +59,9 @@ Use reset to **remove this commit**.
 - Now you want to **remove some intermediate commits**. Remove commit no. 2 and 4 using rebase.
 - Push all the commits into Task5 and create a Pull Request.
 
+Commit 1
+Commit 3
+Commit 5
 
 Some guidelines for the tasks:
 
