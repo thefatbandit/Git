@@ -26,6 +26,9 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 Rahul Gorai [sudo-rgorai](http://github.com/sudo-rgorai)
 
+Arnesh Kumar Issar [thefatbandit](https://github.com/thefatbandit)
+
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
