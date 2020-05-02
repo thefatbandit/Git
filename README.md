@@ -1,8 +1,8 @@
 # Git
 
 - Resources:
-  - https://learngitbranching.js.org
-  - http://gitimmersion.com/index.html
+  - [Interactive Git Learning Platform](https://learngitbranching.js.org)
+  - [Reference + Extra Reading](http://gitimmersion.com/index.html)
   - Book on Git- [Pro Git](http://git-scm.com/book/en/v2)
   - Git Cheatsheet - https://github.github.com/training-kit/downloads/github-git-cheat-sheet/ 
 
