@@ -4,7 +4,7 @@
   - [Interactive Git Learning Platform](https://learngitbranching.js.org) No need for doing the advance topics in both remote/main.
   - [Reference + Extra Reading](http://gitimmersion.com/index.html)
   - Book on Git- [Pro Git](http://git-scm.com/book/en/v2)
-  - Git Cheatsheet - https://github.github.com/training-kit/downloads/github-git-cheat-sheet/ 
+  - [Git Cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 
 This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/).
 
