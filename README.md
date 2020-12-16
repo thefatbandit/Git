@@ -25,6 +25,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 
+Shrinivas Khiste [ShrinivasSK](https://github.com/ShrinivasSK)
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
@@ -43,6 +45,7 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 Why not remove the commit altogether? \
 This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
 
+
 ##  Task 4
 
 - Create a new branch (called Task4) in your fork. Add a dummy piece of code and push it to the current branch. 
@@ -55,6 +58,9 @@ Use reset to **remove this commit**.
 - Now you want to **remove some intermediate commits**. Remove commit no. 2 and 4 using rebase.
 - Push all the commits into Task5 and create a Pull Request.
 
+Commit 1
+Commit 3
+Commit 5
 
 Some guidelines for the tasks:
 
