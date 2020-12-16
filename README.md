@@ -25,6 +25,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 
+Shrinivas Khiste [ShrinivasSK](https://github.com/ShrinivasSK)
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
@@ -42,6 +44,7 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 
 Why not remove the commit altogether? \
 This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
+
 
 ##  Task 4
 
