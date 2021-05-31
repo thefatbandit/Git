@@ -24,6 +24,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
+Rahul Gorai [sudo-rgorai](http://github.com/sudo-rgorai)
 
 ## Task 2
 
