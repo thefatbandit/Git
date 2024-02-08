@@ -32,3 +32,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 Niket kumar [Niket-4790](http://github.com/Niket-4790)
 
+int n;
+cin>>n;
+cout<<n;
+
